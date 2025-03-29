@@ -20,7 +20,7 @@
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://github.com/nipunrank3190) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -44,7 +44,7 @@
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Improving my skills in cloud computing with AWS.</li>
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
@@ -234,12 +234,12 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:nipunrank495@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="nipunrank495@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<img src="./twitter.png" width=50 height=50 alt="nipun__r__k" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/kiran_a_n" target="_blank">
