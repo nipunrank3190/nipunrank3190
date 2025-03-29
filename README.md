@@ -238,8 +238,8 @@
 <img src="./gmail.png" width=50 height=50 alt="nipunrank495@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="nipun__r__k" style="margin-bottom: 5px;" />
+<a href="https://www.threads.net/@_happy.10_?hl=en" target="_blank">
+<img src="./threads.jpg" width=50 height=50 alt="_happy.10_?hl=en" style="margin-bottom: 5px;" />
 </a>
 
 <a href="[https://www.instagram.com/_happy.10_/]" target="_blank">
