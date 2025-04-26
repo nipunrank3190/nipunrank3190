@@ -7,9 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NIPUN RANK! 
-*Software Developer (Programmer)*
-<br /> 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NIPUN RANK! <br /> 
 
 <!--Start Intro-->               
 <p align="left">I am a Software Developer and Machine Learning Enthusiast with a huge love for Python, React.js, RDBMS, REST API and Data Visualization. </p>
