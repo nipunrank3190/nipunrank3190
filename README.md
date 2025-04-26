@@ -10,7 +10,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NIPUN RANK! <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Software Developer and Machine Learning Enthusiast with a huge love for Python, React.js, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I'm a passionate Full Stack Web Developer with expertise in ReactJS. From .NET developer specializing in ASP.NET Core and C#, building scalable web applications and APIs.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
