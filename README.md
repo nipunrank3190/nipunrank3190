@@ -1,6 +1,6 @@
 <!--Banner-->
 <!-- ![Nipun3190 Banner Image](./banner.png) -->
-<h1 align="center">Abhishek Singh Dhadwal</h1>
+<h1 align="center">Nipun Rank</h1>
 <h3 align="center">Software Developer</h3>
 <!--Night Owl image-->
 <div>
@@ -8,7 +8,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NIPUN RANK! <br /> 
+<!-- # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NIPUN RANK! <br /> -->
+
 
 <!--Start Intro-->               
 <p align="left">I'm a passionate Full Stack Web Developer with expertise in ReactJS. From .NET developer specializing in ASP.NET Core and C#, building scalable web applications and APIs.</p>
