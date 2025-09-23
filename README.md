@@ -1,6 +1,7 @@
 <!--Banner-->
-![Nipun3190 Banner Image](./banner.png)
-
+<!-- ![Nipun3190 Banner Image](./banner.png) -->
+<h1 align="center">Abhishek Singh Dhadwal</h1>
+<h3 align="center">Software Developer</h3>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
