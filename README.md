@@ -1,4 +1,4 @@
-![linkerd](https://github.com/user-attachments/assets/7509789b-019c-4688-93a7-0ee0dabccfa3)<!--Banner-->
+<!--Banner-->
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/378b2a34-82a7-4bd0-943f-07c8bfbc16f8" />
 
 <!--Header Name-->
