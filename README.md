@@ -10,6 +10,33 @@
 <!--Header Name-->
 <!-- # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NIPUN RANK! <br /> -->
 
+<!-- Language -->
+
+### Languages
+
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift" />
+
+---
+
+### Technologies
+
+<img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes" />
+<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-Pytorch-000000?style=for-the-badge&logo=pytorch" />
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis" />
+<img src="https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring" />
+<img src="https://img.shields.io/badge/-Tensorflow-000000?style=for-the-badge&logo=tensorflow" />
 
 <!--Contact Section--> 
 
