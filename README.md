@@ -15,14 +15,16 @@
 <img src="https://img.shields.io/badge/-ASP.NET%20Core%20MVC-000000?style=for-the-badge&logo=dot-net" />
 <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql" />
 </div> -->
-<div>
-  <img src="https://img.shields.io/badge/-C-white?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=cplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-ASP.NET%20Core%20MVC-white?style=for-the-badge&logo=dot-net&logoColor=black" />
-  <img src="https://img.shields.io/badge/-SQL-white?style=for-the-badge&logo=mysql&logoColor=black" />
-</div>
+<div class="badge-group">
+        <span class="badge python">Python</span>
+        <span class="badge js">JavaScript</span>
+        <span class="badge c">C</span>
+        <span class="badge java">Java</span>
+        <span class="badge ts">TypeScript</span>
+        <span class="badge cpp">C++</span>
+        <span class="badge sql">SQL</span>
+        <span class="badge swift">Swift</span>
+      </div>
 
 
 
