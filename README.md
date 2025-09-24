@@ -17,14 +17,16 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp&logoColor=239120)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-000?&logo=dotnet&logoColor=512BD4)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-000?&logo=dotnet&logoColor=512BD4)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![ReactJS](https://img.shields.io/badge/-React-000?&logo=React)
+
 
 
 ---
