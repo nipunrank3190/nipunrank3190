@@ -34,15 +34,14 @@
 ### Technologies
 <!-- <div> -->
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-000?&logo=.net&logoColor=512BD4)
+![SQLYog](https://img.shields.io/badge/-SQLYog-000?&logo=mysql&logoColor=4479A1)
+![Looker Studio](https://img.shields.io/badge/-Looker_Studio-000?&logo=looker&logoColor=4285F4)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-000?&logo=cloudflare&logoColor=F38020)
+
 <!-- </div> -->
 
 <!--Contact Section--> 
