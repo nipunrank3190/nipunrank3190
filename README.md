@@ -16,13 +16,14 @@
 <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql" />
 </div> -->
 <div>
-  <img src="https://img.shields.io/badge/C-–?logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-–?logo=cplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-–?logo=c-sharp&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-–?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-–?logo=dot-net&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-–?logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C-white?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-ASP.NET%20Core%20MVC-white?style=for-the-badge&logo=dot-net&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-white?style=for-the-badge&logo=mysql&logoColor=black" />
 </div>
+
 
 
 
