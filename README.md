@@ -32,3 +32,26 @@
 
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+<p align="center">
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
+  </a>
+  <a href="https://twitter.com/your_twitter_handle">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_handle/">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
+  </a>
+  <a href="https://github.com/your_github_handle">
+    <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin_handle/">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/your_devto_handle">
+    <img src="https://d33wubrfki0l68.cloudfront.net/a94ae1b953d6a2f3e8b4e7a83d0d62f6b3d16b5a/2d432/static/dev-badge.svg" alt="Dev.to" width="48px" height="48px" />
+  </a>
+</p>
+
+
