@@ -46,8 +46,14 @@
   <a href="https://www.linkedin.com/in/nipun-rank-9a189a262/">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/your_devto_handle">
-    <img src="https://d33wubrfki0l68.cloudfront.net/a94ae1b953d6a2f3e8b4e7a83d0d62f6b3d16b5a/2d432/static/dev-badge.svg" alt="Dev.to" width="48px" height="48px" />
+   <a href="https://codepen.io/_nipun_-rank_">
+    <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="CodePen" />
+  </a>
+  <a href="https://leetcode.com/u/nipunrank495/">
+    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" />
+  </a>
+  <a href="https://www.codewars.com/users/Nipun%20Rank">
+    <img src="https://www.codewars.com/users/addicted_to_coding/badges/micro" alt="CodeWars" />
   </a>
 </p>
 
