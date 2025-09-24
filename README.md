@@ -42,7 +42,7 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<!-- <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
 <a href="mailto:nipunrank495@gmail.com" target="_blank">
@@ -69,6 +69,38 @@
 <img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
 </div>
+<br/> -->
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
+<div align="center">
+  
+  <a href="mailto:nipunrank495@gmail.com" target="_blank">
+    <img src="./gmail.png" width="50" height="50" alt="Gmail" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.threads.net/@_happy.10_?hl=en" target="_blank">
+    <img src="./threads.jpg" width="50" height="50" alt="Threads" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.instagram.com/_happy.10_/" target="_blank">
+    <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://github.com/nipunrank3190" target="_blank">
+    <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/nipun-rank-9a189a262/" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://dev.to/dev_kiran" target="_blank">
+    <img src="./dev_to.png" width="50" height="50" alt="Dev.to" style="margin-bottom: 5px;" />
+  </a>
+
+</div>
 <br/>
+
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
