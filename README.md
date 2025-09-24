@@ -24,8 +24,7 @@
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-000?&logo=dotnet&logoColor=512BD4)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-000?&logo=dotnet&logoColor=512BD4)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![ReactJS](https://img.shields.io/badge/-React-000?&logo=React)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=7F52FF)
 
 
 
