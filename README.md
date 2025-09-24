@@ -34,19 +34,16 @@
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <p align="center">
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:nipunrank495@gmail.com.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
   </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/your_instagram_handle/">
+  <a href="https://www.instagram.com/_happy.10_/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
-  <a href="https://github.com/your_github_handle">
+  <a href="https://github.com/nipunrank3190">
     <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_handle/">
+  <a href="https://www.linkedin.com/in/nipun-rank-9a189a262/">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://dev.to/your_devto_handle">
