@@ -15,17 +15,15 @@
 <img src="https://img.shields.io/badge/-ASP.NET%20Core%20MVC-000000?style=for-the-badge&logo=dot-net" />
 <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql" />
 </div> -->
-<div class="badge-group">
-        <span class="badge python">Python</span>
-        <span class="badge js">JavaScript</span>
-        <span class="badge c">C</span>
-        <span class="badge java">Java</span>
-        <span class="badge ts">TypeScript</span>
-        <span class="badge cpp">C++</span>
-        <span class="badge sql">SQL</span>
-        <span class="badge swift">Swift</span>
-      </div>
 
+<div>
+<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=c-sharp" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/-ASP.NET%20Core%20MVC-000000?style=for-the-badge&logo=dot-net" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql" />
+</div>
 
 
 
