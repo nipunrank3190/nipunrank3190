@@ -27,9 +27,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=7F52FF)
 
 
-
----
-
 ### Technologies
 <!-- <div> -->
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
