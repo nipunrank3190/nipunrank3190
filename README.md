@@ -4,6 +4,28 @@
 <!--Header Name-->
 <!-- # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NIPUN RANK! <br /> -->
 
+---
+<div align="center">
+
+# 💫About Me :
+
+<img src="./developer.jpg" width="35%" align="right" alt="Github">  
+
+<br>
+
+💻 &nbsp;Working as a Software Developer - 1 at Owy Technosys Pvt. Ltd.
+
+👯 I’m looking to collaborate on **Open Source Projects using Asp.Net Core, JavaScript**.   
+
+🍎  **Beginner Mindset** (Open to Learning).
+
+⚡ I am a  **Travel Addict.**
+
+😄 Pronouns: **He/Him.**
+
+
+<br><br>
+
 <!-- Language -->
 
 ### Languages
